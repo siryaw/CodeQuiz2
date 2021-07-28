@@ -13,13 +13,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "What has been my go to library?",
+    answer: "React",
     options: [
       "Common Style Sheet",
       "Colorful Style Sheet",
       "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "React"
     ]
   },
     {
